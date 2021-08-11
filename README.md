@@ -1,7 +1,7 @@
-# Perform-Multiple-Tasks-By-Face-Recognition-using-OepnCv-and-Python
+# Perform Multiple Tasks By Face Recognition using OpenCV And Python
 
 
-"Task 06 👨🏻‍💻
+"Task 06 👨🏻‍💻"
 
 Team Task
 
